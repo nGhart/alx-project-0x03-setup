@@ -1,4 +1,4 @@
-# ✨ Splash App
+# Splash App
 
 ## Project Description
 
@@ -8,9 +8,7 @@ This project demonstrates core industry best practices, focusing on **component-
 
 The application ensures a **consistent branding and responsive design** across all devices, mimicking the requirements of real-world, maintainable software development.
 
----
-
-## 🎯 Key Features & Learning Objectives
+## Key Features & Learning Objectives
 
 This project is structured to teach and reinforce essential modern web development techniques:
 
@@ -28,9 +26,7 @@ This project is structured to teach and reinforce essential modern web developme
 * **Responsive Design:** Ensure the UI dynamically adapts and looks professional on all screen sizes.
 * **Custom Error Handling:** Create a user-friendly custom **404 error page** for improved UX.
 
----
-
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Tool / Library | Description |
 | :--- | :--- | :--- |
@@ -38,5 +34,3 @@ This project is structured to teach and reinforce essential modern web developme
 | **Language** | TypeScript | Typed superset of JavaScript for reliable code. |
 | **Styling** | Tailwind CSS | Utility-first CSS framework for rapid UI development. |
 | **UX/UI** | Google Fonts, React Icons | Services for professional typography and comprehensive icon support. |
-
----
